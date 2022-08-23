@@ -1,2 +1,0 @@
-# site-statique
-first website
